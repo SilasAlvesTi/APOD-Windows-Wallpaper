@@ -56,6 +56,6 @@ def redimensionar_imagem(image_path, target_size=(1920, 1080)):
     image.save('temp.jpg')
 
 if __name__ == '__main__':
-    #pegar_imagem()
+    pegar_imagem()
     definir_imagem_como_wallpaper()
     
